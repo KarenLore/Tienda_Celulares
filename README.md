@@ -1,11 +1,11 @@
-# Algoritmo Tienda_Celulares
+# 📱Algoritmo Tienda_Celulares
 Este README proporciona una descripción del algoritmo para gestionar una tienda de celulares. El algoritmo permite al usuario interactuar con un inventario de modelos de celulares, agregar nuevos modelos, actualizar cantidades, realizar ventas y mostrar las ventas realizadas.
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
 | 1 | Algoritmo Tienda_Celulares |
 
-### Instalación
+### ✔️Instalación
 Deberas ejecutar el comando git clone para copiar el repositorio
   [Link]([https://github.com/KarenLore/mapa.git](https://github.com/KarenLore/Tienda_Celulares.git))
 
@@ -18,7 +18,7 @@ Código realizado en:
 - PSeInt
 ```
 
-## Descripción General
+## 🖊️Descripción General
 El algoritmo está diseñado para manejar las siguientes operaciones en una tienda de celulares:
 - Mostrar Modelos Disponibles: Presenta una lista de modelos de celulares disponibles en el inventario, junto con detalles como ID, precio y cantidad disponible.
 - Agregar Nuevo Modelo: Permite al usuario agregar un nuevo modelo de celular al inventario, incluyendo nombre, ID, precio y cantidad.
@@ -39,13 +39,13 @@ El algoritmo utiliza varias estructuras de datos para gestionar la información:
 - CantidadCliente: Una lista de cantidades compradas para cada modelo.
 
 ## Algoritmo
-**1. Inicialización de Datos:**
+**1️⃣. Inicialización de Datos:**
 - Se inicializan las listas Inventario, IdCelular, Precio, y Cantidad con datos de ejemplo.
 - Se definen las listas NombreCliente, IdCliente, PrecioCliente, y CantidadCliente para almacenar la información de las ventas.
-**2. Menú Principal:**
+**2️⃣. Menú Principal:**
 - El programa presenta un menú con opciones para gestionar el inventario y las ventas.
 
-**3.Operaciones:**
+**3️⃣.Operaciones:**
 - Mostrar Modelos Disponibles: Muestra la información de todos los modelos en el inventario.
 - Agregar Nuevo Modelo: Permite al usuario ingresar un nuevo modelo, ID, precio y cantidad, y actualizar el inventario.
 - Actualizar Cantidad de un Modelo: Permite al usuario actualizar la cantidad disponible para un modelo específico.
@@ -53,7 +53,7 @@ El algoritmo utiliza varias estructuras de datos para gestionar la información:
 - Mostrar Ventas Realizadas: Muestra un resumen de todas las ventas realizadas, con detalles de cada compra.
 - Finalizar: Termina la ejecución del programa.
   
-**4.Manejo de Ventas:**
+**4️⃣.Manejo de Ventas:**
 - Si no se han realizado ventas, el programa solicita al usuario si desea continuar con la compra.
 - Se calcula el total a pagar y se muestra un resumen de cada venta realizada.
   
@@ -87,3 +87,8 @@ Este texto será una cita.
 > [!CAUTION]
 > Ten cuidado al actualizar la cantidad de un modelo para no reducir la cantidad disponible a un número negativo, lo que podría causar errores en el manejo del inventario.
 > Verifica la disponibilidad del modelo antes de realizar una venta para evitar problemas con el inventario.
+
+  ### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+  Nombre: Karen Lorena Cristancho
+  Email: karenlorenacriscaceres@gmail.com
